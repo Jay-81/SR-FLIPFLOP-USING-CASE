@@ -1,5 +1,5 @@
 ### EXP 6: SR-FLIPFLOP-USING-CASE
-### 31st OCT 2024
+### DATE: 31st OCT 2024
 
 **AIM:**
 
